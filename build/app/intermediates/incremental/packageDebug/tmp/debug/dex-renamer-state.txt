@@ -1,0 +1,4 @@
+#Wed May 01 10:30:38 IST 2024
+base.0=/Users/savanimaulik/Documents/HiveDatabase/Maulik_Hivedatbase/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
